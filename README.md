@@ -1,5 +1,5 @@
-# k09geneerika
-
-Geneerika võimalusi kasutava programmi näide.
-
-Võib juhinduda tunnitööst või mõnest olemasolevast tutorialist
+Phone = 55511111 -> name = Juku
+Phone = 51990022
+Name = Juku
+Phone = +51990022
+Name = Juku
