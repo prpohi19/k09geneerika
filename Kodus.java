@@ -16,6 +16,10 @@ public class Kodus{
         printArray(t2hed);
      }
 
+ }
 
-
-    }
+ /*
+Maksim, Sai hindeks: 5
+Massiiv t2hed sisaldab:
+P E E N I K E
+ */
