@@ -1,0 +1,18 @@
+maximum leiab antud andmetüübi maksimumi:
+
+67, -4,  198 - maksimum decimal integer on: 198
+
+0.9,76.0 6.4 - maksimum float on 76.0
+
+adbc, abdc, tark - maksimum string on tark
+
+printArray prindib erineva andmetüübi massiive:
+
+IntegerArray koosneb:
+5 4 3 2 1
+
+DoubleArray koosneb:
+1.0 2.1 3.2 4.3 5.4
+
+CharacterArray koosneb:
+C h A r A c T e r
