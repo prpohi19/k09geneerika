@@ -20,3 +20,9 @@ public class Main {
         geneerika.print();
     }
 }
+
+/*
+OUTPUT
+Esimene objekt on qwerty
+Teine objekt on 123456789
+*/
