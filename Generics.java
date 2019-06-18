@@ -24,13 +24,13 @@ public class Generics{
         }
     }
 }
-
 /*
-Väljund:
-Kati Kadakas, praegune palk: 1040 EUR. Ennustatav kuupalk järgnevatel viiel aastal:
- 1.aasta: 1248 EUR, 2.aasta: 1497 EUR, 3.aasta: 1796 EUR, 4.aasta: 2155 EUR, 5.aasta: 2586 EUR
-Mati Mõdu, praegune palk: 950 EUR. Ennustatav kuupalk järgnevatel viiel aastal:
- 1.aasta: 1235 EUR, 2.aasta: 1605 EUR, 3.aasta: 2086 EUR, 4.aasta: 2711 EUR, 5.aasta: 3524 EUR
-Maali Maasikas, praegune palk: 1100 EUR. Ennustatav kuupalk järgnevatel viiel aastal:
- 1.aasta: 1210 EUR, 2.aasta: 1331 EUR, 3.aasta: 1464 EUR, 4.aasta: 1610 EUR, 5.aasta: 1771 EUR
+Saab, praegune hind: 1040 EUR. Ennustatav hind järgnevatel viiel aastal:
+ 1. aasta: 728 EUR, 2. aasta: 509 EUR, 3. aasta: 356 EUR, 4. aasta: 249 EUR, 5. aasta: 174 EUR
+
+BMW, praegune hind: 950 EUR. Ennustatav hind järgnevatel viiel aastal:
+ 1. aasta: 1045 EUR, 2. aasta: 1149 EUR, 3. aasta: 1263 EUR, 4. aasta: 1389 EUR, 5. aasta: 1527 EUR
+
+Ford, praegune hind: 600 EUR. Ennustatav hind järgnevatel viiel aastal:
+ 1. aasta: 720 EUR, 2. aasta: 864 EUR, 3. aasta: 1036 EUR, 4. aasta: 1243 EUR, 5. aasta: 1491 EUR
 */
